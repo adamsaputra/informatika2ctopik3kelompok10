@@ -1,0 +1,17 @@
+package gameproject;
+
+import java.util.ArrayList;
+
+public class ArrayListPlayer1{
+
+  public static void main (String[] args){
+    ArrayList<Player1> member = new ArrayList<>();
+    member.add(new Player1("Rasyid",3500000,350));
+    member.add(new Player1("Adam",4500000,250));
+    member.add(new Player1("Sirril",5500000,355));
+    member.add(new Player1("Adit",2500000,340));
+    member.add(new Player1("Faiz",3400000,320));
+  
+  }
+
+}
