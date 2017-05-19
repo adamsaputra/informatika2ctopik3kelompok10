@@ -1,7 +1,5 @@
 package gameproject;
 
-import java.util.ArrayList;
-
 public class Player  {
 private String nama;
     private double gold,gem;
